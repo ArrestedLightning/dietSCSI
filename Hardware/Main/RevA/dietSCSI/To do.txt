@@ -1,0 +1,5 @@
+disconnect on card detect pin
+Fix date on silkscreen
+Add polarity indicators to external LED headers
+Add pins for disk selection?
+Make inverted labels bigger for better visibility
