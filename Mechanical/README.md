@@ -24,6 +24,9 @@ This case is also designed for internal use.  It is designed to be closer to the
 Lids
 --------
 ![Lid without cutout](https://github.com/ArrestedLightning/dietSCSI/blob/main/docs/lid_without_cutout.png)
+
 ![Lid with cutout](https://github.com/ArrestedLightning/dietSCSI/blob/main/docs/lid_with_cutout.png)
+
 ![Lid with cutout underside view](https://github.com/ArrestedLightning/dietSCSI/blob/main/docs/lid_with_cutout_underside.png)
+
 All of the above case designs use the same lid.  There are two lid options available, one with a cutout for the SCSI ribbon cable, and one without the cutout.  The cutout is suggested for most people, as it makes more functionality available to you, but if you are putting together a portable version and you are 100% sure that you will only ever be using the DB25 connector, the "without cutout" version does give a cleaner appearance.

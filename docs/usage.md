@@ -24,7 +24,7 @@ HD20_512 Mac OS.img
 
 A nice prebuilt hard disk image with Mac OS and tons of apps and games for compact macs is https://archive.org/details/macpack-20210619.  Rename boot.vhd to something like HD10_512.hda.
 
-You can also easily generate custom blank disk images using [Disk Jockey] (https://bluescsi.onegeekarmy.eu/diskjockey/).
+You can also easily generate custom blank disk images using [Disk Jockey](https://bluescsi.onegeekarmy.eu/diskjockey/).
 
 USB Passthrough Mode
 ===========
